@@ -1,0 +1,71 @@
+C:\Users\Студент\Desktop\exam\exam\bin\Debug\exam.exe
+C:\Users\Студент\Desktop\exam\exam\bin\Debug\exam.pdb
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\exam.exe
+C:\Users\Студент\Desktop\exam\exam\obj\Debug\exam.pdb
+G:\Тест по пдд\exam\bin\Debug\exam.exe
+G:\Тест по пдд\exam\bin\Debug\exam.pdb
+G:\Тест по пдд\exam\obj\Debug\exam.csprojAssemblyReference.cache
+G:\Тест по пдд\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Тест по пдд\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Тест по пдд\exam\obj\Debug\exam.csproj.GenerateResource.cache
+G:\Тест по пдд\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+G:\Тест по пдд\exam\obj\Debug\exam.exe
+G:\Тест по пдд\exam\obj\Debug\exam.pdb
+C:\Users\Студент\Desktop\Тест по пдд\exam\bin\Debug\exam.exe
+C:\Users\Студент\Desktop\Тест по пдд\exam\bin\Debug\exam.pdb
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\exam.exe
+C:\Users\Студент\Desktop\Тест по пдд\exam\obj\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\bin\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\bin\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2)\exam\obj\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\bin\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\bin\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд — копия (2) — копия\exam\obj\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\bin\Debug\exam.exe.manifest
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\bin\Debug\exam.application
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\bin\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\bin\Debug\exam.pdb
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.exe.manifest
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.application
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.exe
+C:\Users\Студент\Desktop\Муратов программа\Тест по пдд 2\exam\obj\Debug\exam.pdb
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\bin\Debug\exam.exe.manifest
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\bin\Debug\exam.application
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\bin\Debug\exam.exe
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\bin\Debug\exam.pdb
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.csprojAssemblyReference.cache
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.csproj.GenerateResource.cache
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.exe.manifest
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.application
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.exe
+F:\№ 2  Skills\№ 2 Конкурсы\№ 2 Сторонние конкурсы\0 АРХИВЫ\2018-2019\№ 5  Город  безопасности\№ 2 Тест по пдд 2\exam\obj\Debug\exam.pdb
